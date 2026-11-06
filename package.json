@@ -1,0 +1,8 @@
+{
+  "name": "central-chamados-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": { "start": "node src/servidor.ts", "test": "node --test test/*.test.ts" }
+}
