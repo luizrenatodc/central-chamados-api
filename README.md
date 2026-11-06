@@ -4,6 +4,12 @@ API para abrir chamados entre setores, com prazo de atendimento (SLA) calculado 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_24-339933?logo=nodedotjs&logoColor=white)
 
+## Veja funcionando
+
+![Testes e chamadas reais: transição inválida recusada e chamado crítico na frente da fila.](docs/api.png)
+
+*Testes e chamadas reais: transição inválida recusada e chamado crítico na frente da fila.*
+
 ## O problema
 
 Pedidos internos que chegam por e-mail e mensagem se perdem, e ninguém sabe o que está atrasado. Uma central de chamados precisa deixar claro o que atender agora e impedir que um chamado pule etapas.
